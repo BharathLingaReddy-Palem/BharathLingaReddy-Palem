@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="850" viewBox="0 0 720 850" fill="none" role="img" aria-labelledby="title desc"><title id="title">Bharath&#x27;s project constellation</title><desc id="desc">Four directions: analytics, connected tools, educational retrieval, and predictive machine learning.</desc>
+<style>
+.still{display:none}.flow{stroke-dasharray:3 19;animation:flow 12s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}.draw{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 8s ease-in-out infinite}.scan{animation:scan 5s ease-in-out infinite}.bar{transform-box:fill-box;transform-origin:bottom;animation:bars 6s ease-in-out infinite}.orbit{transform-origin:1080px 315px;animation:orbit 70s linear infinite}.inverse{animation-direction:reverse}
+@keyframes flow{to{stroke-dashoffset:-220}}@keyframes pulse{50%{opacity:.35}}@keyframes draw{0%,10%{stroke-dashoffset:900}55%,90%{stroke-dashoffset:0}100%{stroke-dashoffset:900}}@keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(80px)}}@keyframes bars{0%,100%{transform:scaleY(.5)}50%{transform:scaleY(1)}}@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:block}.flow,.pulse,.draw,.scan,.bar,.orbit{animation:none}.draw{stroke-dashoffset:0}}
+</style>
+<rect width="720" height="850" rx="14" fill="#080F1A"/>
+<text x="35" y="48" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" letter-spacing="1.3" text-anchor="start">FOUR DIRECTIONS / ONE BUILDER</text>
+<path class="flow" d="M50 80V765" stroke="#75EAF5" stroke-width="2"/>
+<circle class="pulse" cx="50" cy="155" r="8" fill="#75EAF5"/>
+<path d="M58 155H80" stroke="#273C51"/><rect x="80" y="85" width="605" height="147" rx="12" fill="#101C2B" stroke="#273C51"/>
+<text x="105" y="119" fill="#75EAF5" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="1" text-anchor="start">01 / ANALYTICS</text>
+<text x="105" y="167" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="600" letter-spacing="-1" text-anchor="start">Data Agent</text>
+<text x="105" y="203" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" letter-spacing="0" text-anchor="start">Clean → compare → predict</text>
+<circle class="pulse" cx="50" cy="333" r="8" fill="#BBA4FF"/>
+<path d="M58 333H80" stroke="#273C51"/><rect x="80" y="263" width="605" height="147" rx="12" fill="#101C2B" stroke="#273C51"/>
+<text x="105" y="297" fill="#BBA4FF" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="1" text-anchor="start">02 / CONNECTED TOOLS</text>
+<text x="105" y="345" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="600" letter-spacing="-1" text-anchor="start">Expense MCP</text>
+<text x="105" y="381" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" letter-spacing="0" text-anchor="start">Conversation → action</text>
+<circle class="pulse" cx="50" cy="511" r="8" fill="#9FBFF7"/>
+<path d="M58 511H80" stroke="#273C51"/><rect x="80" y="441" width="605" height="147" rx="12" fill="#101C2B" stroke="#273C51"/>
+<text x="105" y="475" fill="#9FBFF7" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="1" text-anchor="start">03 / KNOWLEDGE</text>
+<text x="105" y="523" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="600" letter-spacing="-1" text-anchor="start">Educational RAG</text>
+<text x="105" y="559" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" letter-spacing="0" text-anchor="start">Documents → context</text>
+<circle class="pulse" cx="50" cy="689" r="8" fill="#F5C6A1"/>
+<path d="M58 689H80" stroke="#273C51"/><rect x="80" y="619" width="605" height="147" rx="12" fill="#101C2B" stroke="#273C51"/>
+<text x="105" y="653" fill="#F5C6A1" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="1" text-anchor="start">04 / PREDICTION</text>
+<text x="105" y="701" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="600" letter-spacing="-1" text-anchor="start">The ML lab</text>
+<text x="105" y="737" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" letter-spacing="0" text-anchor="start">Forecasting / recommendation / vision</text>
+<text x="35" y="821" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="1" text-anchor="start">BHARATH / INTELLIGENCE → EXPERIENCE</text>
+</svg>

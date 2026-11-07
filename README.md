@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Bharath Linga Reddy Palem — AI systems. Product thinking. AI and ML developer, Hyderabad, India." />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <img src="./assets/hero.svg" width="100%" alt="Bharath Linga Reddy Palem — Intelligence, engineered. An animated 3D trefoil sculpture. AI/ML and Python developer, Hyderabad, India." />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="#the-brief"><strong>THE BRIEF</strong></a> &nbsp; / &nbsp;
-  <a href="#portfolio-signal"><strong>PORTFOLIO SIGNAL</strong></a> &nbsp; / &nbsp;
-  <a href="#selected-systems"><strong>THE SYSTEMS</strong></a> &nbsp; / &nbsp;
-  <a href="#inside-the-builds"><strong>GO DEEPER</strong></a> &nbsp; / &nbsp;
+  <a href="#the-brief"><strong>THE HUMAN</strong></a> &nbsp; / &nbsp;
+  <a href="#project-constellation"><strong>THE CONSTELLATION</strong></a> &nbsp; / &nbsp;
+  <a href="#selected-systems"><strong>THE BUILDS</strong></a> &nbsp; / &nbsp;
+  <a href="#portfolio-signal"><strong>THE SIGNAL</strong></a> &nbsp; / &nbsp;
   <a href="#connect"><strong>CONNECT ↗</strong></a>
 </p>
 
@@ -16,26 +19,15 @@
 
 An AI/ML & Python developer in Hyderabad, studying **B.Tech AI & Data Science at ICFAI Foundation for Higher Education, Hyderabad — class of 2027**. My work connects data, models, APIs, and interfaces: from a dataset to a decision, a PDF to a grounded answer, or a conversation to an action.
 
-<table>
-<tr>
-<td width="33%" valign="top"><strong>01 / INTELLIGENCE</strong><br /><br />Machine learning, AutoML, retrieval, and language models.</td>
-<td width="33%" valign="top"><strong>02 / ENGINEERING</strong><br /><br />Python APIs, persistent data, and connected MCP tools.</td>
-<td width="33%" valign="top"><strong>03 / EXPERIENCE</strong><br /><br />React and Streamlit interfaces that make the system usable.</td>
-</tr>
-</table>
+<p><code>DATA → MODELS → TOOLS → EXPERIENCES</code></p>
 
 **Open to AI/ML & Python internships.** [Start a conversation →](https://www.linkedin.com/in/bharath-linga-reddy-palem-523a6b449/)
 
-## Portfolio signal
+## Project constellation
 
-<a href="https://github.com/BharathLingaReddy-Palem?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio-signal-light.svg" />
-    <img src="./assets/portfolio-signal.svg" width="100%" alt="Public project dashboard: repository count, primary language distribution, and cumulative repository creation timeline. Values and refresh date are included in the graphic." />
-  </picture>
-</a>
+<a href="#selected-systems"><picture><source media="(max-width: 600px)" srcset="./assets/project-constellation-mobile.svg" /><img src="./assets/project-constellation.svg" width="100%" alt="Animated project constellation: Data Agent, Expense MCP, Educational RAG, and the machine learning lab connect around Bharath. A curated overview, not a dependency diagram." /></picture></a>
 
-<sub>Real public GitHub data. The profile repository and forks are excluded. Language shares count repositories by their primary language; they are not skill ratings. Charts refresh weekly. <a href="./data/repositories.json">Data</a> · <a href="./.github/workflows/refresh-profile.yml">Refresh workflow</a></sub>
+<p align="center"><a href="https://github.com/BharathLingaReddy-Palem/data-agent-generative-ai">01 / Analytics ↗</a> &nbsp; · &nbsp; <a href="https://github.com/BharathLingaReddy-Palem/expense_tracker">02 / Connected tools ↗</a> &nbsp; · &nbsp; <a href="https://github.com/BharathLingaReddy-Palem/Multimodal-RAG-LoRA-Fine-Tuned-Educational-LLM">03 / Knowledge ↗</a> &nbsp; · &nbsp; <a href="https://github.com/BharathLingaReddy-Palem?tab=repositories">04 / The ML lab ↗</a></p>
 
 ## Selected systems
 
@@ -69,6 +61,19 @@ An AI/ML & Python developer in Hyderabad, studying **B.Tech AI & Data Science at
 </td>
 </tr>
 </table>
+
+## Portfolio signal
+
+<a href="https://github.com/BharathLingaReddy-Palem?tab=repositories">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/portfolio-signal-mobile-light.svg" />
+    <source media="(max-width: 600px)" srcset="./assets/portfolio-signal-mobile.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio-signal-light.svg" />
+    <img src="./assets/portfolio-signal.svg" width="100%" alt="Public project dashboard: repository count, primary language distribution, and cumulative repository creation timeline. Values and refresh date are included in the graphic." />
+  </picture>
+</a>
+
+<sub>Real public GitHub data. The profile repository and forks are excluded. Language shares count repositories by their primary language; they are not skill ratings. Charts refresh weekly. <a href="./data/repositories.json">Data</a> · <a href="./.github/workflows/refresh-profile.yml">Refresh workflow</a></sub>
 
 ## Inside the builds
 
@@ -122,9 +127,20 @@ An AI/ML & Python developer in Hyderabad, studying **B.Tech AI & Data Science at
 
 </details>
 
+<details>
+<summary><strong>⌘ Open the engine room</strong> — the small generative experiment behind this profile</summary>
+
+The header is a **3D trefoil knot**: six strands, rotated through 32 sampled orientations and projected into an animated SVG. The constellation passes light along four paths, and each project illustration uses a different motion study.
+
+The artwork is schematic. The portfolio charts use real public repository metadata and refresh weekly. Reduced-motion preferences are supported, and the header has a separate mobile composition.
+
+[Explore the generative artwork source →](./scripts/render_identity.py) · [Explore the chart generator →](./scripts/update_profile.py)
+
+</details>
+
 ## Connect
 
-**A useful problem. A thoughtful team. Something worth building.**
+<a href="https://www.linkedin.com/in/bharath-linga-reddy-palem-523a6b449/"><img src="./assets/connect-banner.svg" width="100%" alt="Let’s build something that matters. Connect with Bharath on LinkedIn." /></a>
 
 I’m open to AI/ML & Python internships and conversations about practical AI applications.
 

@@ -1,22 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 720 256" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Retrieval &amp; language — Answers with context.</title>
-  <desc id="desc">DOCUMENTS / RETRIEVAL / LLMS</desc>
-  <rect width="720" height="256" rx="8" fill="#151B17"/>
-  <path d="M32 65H688M32 211H688" stroke="#39443A"/>
-  <text x="32" y="41" fill="#9DD8F5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">RETRIEVAL &amp; LANGUAGE</text>
-  <text x="688" y="42" text-anchor="end" fill="#6D7E6C" font-family="Arial, Helvetica, sans-serif" font-size="20">03</text>
-  <text x="32" y="132" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.2">Answers with context.</text>
-  <text x="32" y="166" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="14">DOCUMENTS / RETRIEVAL / LLMS</text>
-  <text x="32" y="238" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6">BHARATH / SELECTED WORK</text>
-  <path d="M662 232H686M679 225L686 232L679 239" stroke="#9DD8F5" stroke-width="1.5"/>
-  
-  <rect x="482" y="87" width="61" height="76" rx="5" fill="#253740" stroke="#517684"/>
-  <rect x="492" y="97" width="61" height="76" rx="5" fill="#192B32" stroke="#628F9D"/>
-  <path d="M505 113H540M505 123H532M505 133H540M505 143H527" stroke="#9DD8F5" stroke-width="2"/>
-  <path d="M554 135H586" stroke="#9DD8F5" stroke-width="2" stroke-dasharray="4 4"/>
-  <circle cx="619" cy="135" r="33" stroke="#4D7380"/>
-  <circle cx="619" cy="135" r="22" stroke="#9DD8F5" stroke-width="2"/>
-  <path d="M643 159L664 180" stroke="#9DD8F5" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="619" cy="135" r="4" fill="#9DD8F5"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="300" viewBox="0 0 720 300" fill="none" role="img" aria-labelledby="title desc"><title id="title">Context → answers.</title><desc id="desc">Schematic animated artwork for Context → answers.. DOCUMENTS / RETRIEVAL / LLMS</desc>
+<style>
+.still{display:none}.flow{stroke-dasharray:3 19;animation:flow 12s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}.draw{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 8s ease-in-out infinite}.scan{animation:scan 5s ease-in-out infinite}.bar{transform-box:fill-box;transform-origin:bottom;animation:bars 6s ease-in-out infinite}.orbit{transform-origin:1080px 315px;animation:orbit 70s linear infinite}.inverse{animation-direction:reverse}
+@keyframes flow{to{stroke-dashoffset:-220}}@keyframes pulse{50%{opacity:.35}}@keyframes draw{0%,10%{stroke-dashoffset:900}55%,90%{stroke-dashoffset:0}100%{stroke-dashoffset:900}}@keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(80px)}}@keyframes bars{0%,100%{transform:scaleY(.5)}50%{transform:scaleY(1)}}@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:block}.flow,.pulse,.draw,.scan,.bar,.orbit{animation:none}.draw{stroke-dashoffset:0}}
+</style>
+<rect width="720" height="300" rx="10" fill="#080F1A"/>
+<path d="M28 60H692M28 257H692" stroke="#273C51"/>
+<circle class="pulse" cx="32" cy="32" r="3" fill="#9FBFF7"/>
+<text x="45" y="37" fill="#9FBFF7" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" letter-spacing="1.3" text-anchor="start">THE KNOWLEDGE INTERFACE</text>
+<text x="690" y="38" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="0" text-anchor="end">03</text>
+<text x="28" y="129" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="600" letter-spacing="-1.1" text-anchor="start">Context → answers.</text>
+<text x="28" y="167" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0" text-anchor="start">DOCUMENTS / RETRIEVAL / LLMS</text>
+<text x="28" y="282" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="400" letter-spacing="1.3" text-anchor="start">BHARATH / SYSTEM 03</text>
+<text x="690" y="282" fill="#9FBFF7" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" letter-spacing="1" text-anchor="end">EXPLORE ↗</text>
+<rect x="483" y="98" width="82" height="114" rx="6" fill="#101D2B" stroke="#527492"/><path d="M500 121H549M500 139H540M500 157H549M500 175H532" stroke="#8FBDEB" stroke-width="2"/><path class="scan" d="M474 109H573" stroke="#75EAF5" stroke-width="3"/><path d="M568 157L608 112" stroke="#334D69"/><circle class="pulse" cx="608" cy="112" r="5" fill="#92BBF8"/><path d="M568 157L651 136" stroke="#334D69"/><circle class="pulse" cx="651" cy="136" r="5" fill="#92BBF8"/><path d="M568 157L601 168" stroke="#334D69"/><circle class="pulse" cx="601" cy="168" r="5" fill="#92BBF8"/><path d="M568 157L655 195" stroke="#334D69"/><circle class="pulse" cx="655" cy="195" r="5" fill="#92BBF8"/><path d="M568 157L620 227" stroke="#334D69"/><circle class="pulse" cx="620" cy="227" r="5" fill="#92BBF8"/>
 </svg>

@@ -1,23 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 720 256" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Analytics &amp; AutoML — Data, made usable.</title>
-  <desc id="desc">EXPLORE / CLEAN / TRAIN / REPORT</desc>
-  <rect width="720" height="256" rx="8" fill="#151B17"/>
-  <path d="M32 65H688M32 211H688" stroke="#39443A"/>
-  <text x="32" y="41" fill="#D9FF8A" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">ANALYTICS &amp; AUTOML</text>
-  <text x="688" y="42" text-anchor="end" fill="#6D7E6C" font-family="Arial, Helvetica, sans-serif" font-size="20">01</text>
-  <text x="32" y="132" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.2">Data, made usable.</text>
-  <text x="32" y="166" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="14">EXPLORE / CLEAN / TRAIN / REPORT</text>
-  <text x="32" y="238" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6">BHARATH / SELECTED WORK</text>
-  <path d="M662 232H686M679 225L686 232L679 239" stroke="#D9FF8A" stroke-width="1.5"/>
-  
-  <path d="M480 184H678" stroke="#455141"/>
-  <rect x="492" y="153" width="20" height="31" rx="3" fill="#34422F"/>
-  <rect x="531" y="132" width="20" height="52" rx="3" fill="#586C43"/>
-  <rect x="570" y="149" width="20" height="35" rx="3" fill="#34422F"/>
-  <rect x="609" y="105" width="20" height="79" rx="3" fill="#758F54"/>
-  <rect x="648" y="86" width="20" height="98" rx="3" fill="#D9FF8A"/>
-  <path d="M494 132L540 108L580 125L620 88L659 75" stroke="#D9FF8A" stroke-width="2"/>
-  <circle cx="540" cy="108" r="4" fill="#151B17" stroke="#D9FF8A" stroke-width="2"/>
-  <circle cx="620" cy="88" r="4" fill="#151B17" stroke="#D9FF8A" stroke-width="2"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="300" viewBox="0 0 720 300" fill="none" role="img" aria-labelledby="title desc"><title id="title">Data → decisions.</title><desc id="desc">Schematic animated artwork for Data → decisions.. EXPLORE / CLEAN / TRAIN / REPORT</desc>
+<style>
+.still{display:none}.flow{stroke-dasharray:3 19;animation:flow 12s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}.draw{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 8s ease-in-out infinite}.scan{animation:scan 5s ease-in-out infinite}.bar{transform-box:fill-box;transform-origin:bottom;animation:bars 6s ease-in-out infinite}.orbit{transform-origin:1080px 315px;animation:orbit 70s linear infinite}.inverse{animation-direction:reverse}
+@keyframes flow{to{stroke-dashoffset:-220}}@keyframes pulse{50%{opacity:.35}}@keyframes draw{0%,10%{stroke-dashoffset:900}55%,90%{stroke-dashoffset:0}100%{stroke-dashoffset:900}}@keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(80px)}}@keyframes bars{0%,100%{transform:scaleY(.5)}50%{transform:scaleY(1)}}@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:block}.flow,.pulse,.draw,.scan,.bar,.orbit{animation:none}.draw{stroke-dashoffset:0}}
+</style>
+<rect width="720" height="300" rx="10" fill="#080F1A"/>
+<path d="M28 60H692M28 257H692" stroke="#273C51"/>
+<circle class="pulse" cx="32" cy="32" r="3" fill="#75EAF5"/>
+<text x="45" y="37" fill="#75EAF5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" letter-spacing="1.3" text-anchor="start">THE ANALYTICAL WORKSPACE</text>
+<text x="690" y="38" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="0" text-anchor="end">01</text>
+<text x="28" y="129" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="600" letter-spacing="-1.1" text-anchor="start">Data → decisions.</text>
+<text x="28" y="167" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0" text-anchor="start">EXPLORE / CLEAN / TRAIN / REPORT</text>
+<text x="28" y="282" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="400" letter-spacing="1.3" text-anchor="start">BHARATH / SYSTEM 01</text>
+<text x="690" y="282" fill="#75EAF5" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" letter-spacing="1" text-anchor="end">EXPLORE ↗</text>
+<path d="M475 225H680" stroke="#273C51"/><rect class="bar" x="487" y="180" width="20" height="45" rx="3" fill="#75EAF5" opacity="0.24" style="animation-delay:0.0s"/><rect class="bar" x="525" y="145" width="20" height="80" rx="3" fill="#75EAF5" opacity="0.41" style="animation-delay:-0.65s"/><rect class="bar" x="563" y="167" width="20" height="58" rx="3" fill="#75EAF5" opacity="0.58" style="animation-delay:-1.3s"/><rect class="bar" x="601" y="115" width="20" height="110" rx="3" fill="#75EAF5" opacity="0.75" style="animation-delay:-1.9500000000000002s"/><rect class="bar" x="639" y="95" width="20" height="130" rx="3" fill="#75EAF5" opacity="0.92" style="animation-delay:-2.6s"/><path class="draw" d="M478 195L518 165L555 180L596 129L635 143L679 95" stroke="#C8F9FF" stroke-width="2.5"/>
 </svg>

@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - scripts/update_profile.py
+      - scripts/render_identity.py
       - .github/workflows/refresh-profile.yml
 
 permissions:
@@ -29,9 +30,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_profile.py
+      - name: Render the generative identity
+        run: python scripts/render_identity.py
       - name: Commit updated public charts
         run: |
-          git add data/repositories.json assets/portfolio-signal.svg assets/portfolio-signal-light.svg
+          git add data/repositories.json assets/
           if git diff --cached --quiet; then
             echo "Public portfolio data is unchanged."
             exit 0

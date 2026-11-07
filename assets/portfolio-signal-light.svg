@@ -1,54 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="590" viewBox="0 0 1440 590" role="img" aria-labelledby="title desc"><title id="title">Bharath’s public portfolio dashboard</title><desc id="desc">10 public project repositories. Primary languages: {&#x27;Python&#x27;: 4, &#x27;Jupyter Notebook&#x27;: 3, &#x27;HTML&#x27;: 1, &#x27;PHP&#x27;: 1, &#x27;TypeScript&#x27;: 1}. Repository creation timeline. Updated 2026-11-07.</desc><rect width="1440" height="590" rx="16" fill="#F5F7F0"/>
-<text x="36" y="44" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start">PORTFOLIO / SIGNAL</text>
-<text x="1404" y="44" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="end">PUBLIC GITHUB DATA · 2026-11-07</text>
-<rect x="36" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D6DDCC"/>
-<text x="58" y="127" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">10</text>
-<text x="58" y="154" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">PUBLIC PROJECTS</text>
-<rect x="387" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D6DDCC"/>
-<text x="409" y="127" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">05</text>
-<text x="409" y="154" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">PRIMARY LANGUAGES</text>
-<rect x="738" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D6DDCC"/>
-<text x="760" y="127" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">04</text>
-<text x="760" y="154" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">FEATURED SYSTEMS</text>
-<rect x="1089" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D6DDCC"/>
-<text x="1111" y="127" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">2027</text>
-<text x="1111" y="154" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">GRADUATING CLASS</text>
-<text x="36" y="223" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start">01 / LANGUAGE LANDSCAPE</text>
-<text x="745" y="223" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start">02 / BUILDING HISTORY</text>
-<text x="36" y="251" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="start">Repositories by primary language</text>
-<text x="745" y="251" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="start">Cumulative public project repositories</text>
-<path d="M710 213V544" stroke="#D6DDCC"/>
-<text x="36" y="297" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">Python</text>
-<rect x="230" y="283" width="330" height="13" rx="6" fill="#D6DDCC"/><rect x="230" y="283" width="132.00" height="13" rx="6" fill="#568221"/>
-<text x="657" y="297" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">4 / 40%</text>
-<text x="36" y="345" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">Jupyter Notebook</text>
-<rect x="230" y="331" width="330" height="13" rx="6" fill="#D6DDCC"/><rect x="230" y="331" width="99.00" height="13" rx="6" fill="#3664A7"/>
-<text x="657" y="345" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">3 / 30%</text>
-<text x="36" y="393" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">HTML</text>
-<rect x="230" y="379" width="330" height="13" rx="6" fill="#D6DDCC"/><rect x="230" y="379" width="33.00" height="13" rx="6" fill="#7952B0"/>
-<text x="657" y="393" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">1 / 10%</text>
-<text x="36" y="441" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">PHP</text>
-<rect x="230" y="427" width="330" height="13" rx="6" fill="#D6DDCC"/><rect x="230" y="427" width="33.00" height="13" rx="6" fill="#A36632"/>
-<text x="657" y="441" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">1 / 10%</text>
-<text x="36" y="489" fill="#182419" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">TypeScript</text>
-<rect x="230" y="475" width="330" height="13" rx="6" fill="#D6DDCC"/><rect x="230" y="475" width="33.00" height="13" rx="6" fill="#258575"/>
-<text x="657" y="489" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">1 / 10%</text>
-<path d="M771 492.0H1398" stroke="#D6DDCC" stroke-dasharray="3 5"/>
-<text x="757" y="496.0" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" text-anchor="end">0</text>
-<path d="M771 388.5H1398" stroke="#D6DDCC" stroke-dasharray="3 5"/>
-<text x="757" y="392.5" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" text-anchor="end">5</text>
-<path d="M771 285.0H1398" stroke="#D6DDCC" stroke-dasharray="3 5"/>
-<text x="757" y="289.0" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" text-anchor="end">10</text>
-<path d="M771.0,450.6L805.8,429.9L840.7,429.9L875.5,429.9L910.3,429.9L945.2,429.9L980.0,429.9L1014.8,429.9L1049.7,429.9L1084.5,429.9L1119.3,388.5L1154.2,347.1L1189.0,347.1L1223.8,347.1L1258.7,305.7L1293.5,305.7L1328.3,305.7L1363.2,285.0L1398.0,285.0L1398,492L771,492Z" fill="#568221" opacity=".1"/><path d="M771.0,450.6L805.8,429.9L840.7,429.9L875.5,429.9L910.3,429.9L945.2,429.9L980.0,429.9L1014.8,429.9L1049.7,429.9L1084.5,429.9L1119.3,388.5L1154.2,347.1L1189.0,347.1L1223.8,347.1L1258.7,305.7L1293.5,305.7L1328.3,305.7L1363.2,285.0L1398.0,285.0" fill="none" stroke="#568221" stroke-width="3" stroke-linejoin="round"/>
-<circle cx="771.0" cy="450.6" r="4" fill="#568221"/>
-<circle cx="805.8" cy="429.9" r="4" fill="#568221"/>
-<circle cx="1119.3" cy="388.5" r="4" fill="#568221"/>
-<circle cx="1154.2" cy="347.1" r="4" fill="#568221"/>
-<circle cx="1258.7" cy="305.7" r="4" fill="#568221"/>
-<circle cx="1363.2" cy="285.0" r="4" fill="#568221"/>
-<circle cx="1398.0" cy="285.0" r="4" fill="#568221"/>
-<text x="771.0" y="521" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="middle">May 2025</text>
-<text x="1084.5" y="521" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="middle">Feb 2026</text>
-<text x="1398.0" y="521" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="middle">Nov 2026</text>
-<text x="36" y="567" fill="#5A6957" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="400" text-anchor="start">SOURCE: GITHUB REST API / PUBLIC, ORIGINAL REPOSITORIES / NO SKILL SCORES</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="590" viewBox="0 0 1440 590" role="img" aria-labelledby="title desc"><title id="title">Bharath’s public portfolio dashboard</title><desc id="desc">10 public project repositories. Primary languages: {&#x27;Python&#x27;: 4, &#x27;Jupyter Notebook&#x27;: 3, &#x27;HTML&#x27;: 1, &#x27;PHP&#x27;: 1, &#x27;TypeScript&#x27;: 1}. Repository creation timeline. Updated 2026-11-07.</desc><rect width="1440" height="590" rx="16" fill="#F1F6FA"/>
+<style>.trace{stroke-dasharray:1600;stroke-dashoffset:1600;animation:reveal 3s ease forwards}.grow{transform-box:fill-box;transform-origin:left;animation:grow 1.5s ease both}.endpoint{animation:pulse 4s ease-in-out infinite}@keyframes reveal{to{stroke-dashoffset:0}}@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}@keyframes pulse{50%{opacity:.4}}@media(prefers-reduced-motion:reduce){.trace,.grow,.endpoint{animation:none}.trace{stroke-dashoffset:0}}</style>
+<text x="36" y="44" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start">PORTFOLIO / SIGNAL</text>
+<text x="1404" y="44" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="end">PUBLIC GITHUB DATA · 2026-11-07</text>
+<rect x="36" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D2DFEA"/>
+<text x="58" y="127" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">10</text>
+<text x="58" y="154" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">PUBLIC PROJECTS</text>
+<rect x="387" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D2DFEA"/>
+<text x="409" y="127" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">05</text>
+<text x="409" y="154" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">PRIMARY LANGUAGES</text>
+<rect x="738" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D2DFEA"/>
+<text x="760" y="127" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">04</text>
+<text x="760" y="154" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">FEATURED SYSTEMS</text>
+<rect x="1089" y="71" width="315" height="108" rx="9" fill="#FFFFFF" stroke="#D2DFEA"/>
+<text x="1111" y="127" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" text-anchor="start">2027</text>
+<text x="1111" y="154" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" text-anchor="start">GRADUATING CLASS</text>
+<text x="36" y="223" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start">01 / LANGUAGE LANDSCAPE</text>
+<text x="745" y="223" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start">02 / BUILDING HISTORY</text>
+<text x="36" y="251" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="start">Repositories by primary language</text>
+<text x="745" y="251" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="start">Cumulative public project repositories</text>
+<path d="M710 213V544" stroke="#D2DFEA"/>
+<text x="36" y="297" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">Python</text>
+<rect x="230" y="283" width="330" height="13" rx="6" fill="#D2DFEA"/><rect class="grow" x="230" y="283" width="132.00" height="13" rx="6" fill="#057B8F"/>
+<text x="657" y="297" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">4 / 40%</text>
+<text x="36" y="345" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">Jupyter Notebook</text>
+<rect x="230" y="331" width="330" height="13" rx="6" fill="#D2DFEA"/><rect class="grow" x="230" y="331" width="99.00" height="13" rx="6" fill="#3664A7"/>
+<text x="657" y="345" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">3 / 30%</text>
+<text x="36" y="393" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">HTML</text>
+<rect x="230" y="379" width="330" height="13" rx="6" fill="#D2DFEA"/><rect class="grow" x="230" y="379" width="33.00" height="13" rx="6" fill="#7952B0"/>
+<text x="657" y="393" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">1 / 10%</text>
+<text x="36" y="441" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">PHP</text>
+<rect x="230" y="427" width="330" height="13" rx="6" fill="#D2DFEA"/><rect class="grow" x="230" y="427" width="33.00" height="13" rx="6" fill="#A36632"/>
+<text x="657" y="441" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">1 / 10%</text>
+<text x="36" y="489" fill="#14263A" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" text-anchor="start">TypeScript</text>
+<rect x="230" y="475" width="330" height="13" rx="6" fill="#D2DFEA"/><rect class="grow" x="230" y="475" width="33.00" height="13" rx="6" fill="#258575"/>
+<text x="657" y="489" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400" text-anchor="end">1 / 10%</text>
+<path d="M771 492.0H1398" stroke="#D2DFEA" stroke-dasharray="3 5"/>
+<text x="757" y="496.0" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" text-anchor="end">0</text>
+<path d="M771 388.5H1398" stroke="#D2DFEA" stroke-dasharray="3 5"/>
+<text x="757" y="392.5" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" text-anchor="end">5</text>
+<path d="M771 285.0H1398" stroke="#D2DFEA" stroke-dasharray="3 5"/>
+<text x="757" y="289.0" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" text-anchor="end">10</text>
+<path d="M771.0,450.6L805.8,429.9L840.7,429.9L875.5,429.9L910.3,429.9L945.2,429.9L980.0,429.9L1014.8,429.9L1049.7,429.9L1084.5,429.9L1119.3,388.5L1154.2,347.1L1189.0,347.1L1223.8,347.1L1258.7,305.7L1293.5,305.7L1328.3,305.7L1363.2,285.0L1398.0,285.0L1398,492L771,492Z" fill="#057B8F" opacity=".1"/><path class="trace" d="M771.0,450.6L805.8,429.9L840.7,429.9L875.5,429.9L910.3,429.9L945.2,429.9L980.0,429.9L1014.8,429.9L1049.7,429.9L1084.5,429.9L1119.3,388.5L1154.2,347.1L1189.0,347.1L1223.8,347.1L1258.7,305.7L1293.5,305.7L1328.3,305.7L1363.2,285.0L1398.0,285.0" fill="none" stroke="#057B8F" stroke-width="3" stroke-linejoin="round"/>
+<circle class="endpoint" cx="771.0" cy="450.6" r="4" fill="#057B8F"/>
+<circle class="endpoint" cx="805.8" cy="429.9" r="4" fill="#057B8F"/>
+<circle class="endpoint" cx="1119.3" cy="388.5" r="4" fill="#057B8F"/>
+<circle class="endpoint" cx="1154.2" cy="347.1" r="4" fill="#057B8F"/>
+<circle class="endpoint" cx="1258.7" cy="305.7" r="4" fill="#057B8F"/>
+<circle class="endpoint" cx="1363.2" cy="285.0" r="4" fill="#057B8F"/>
+<circle class="endpoint" cx="1398.0" cy="285.0" r="4" fill="#057B8F"/>
+<text x="771.0" y="521" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="middle">May 2025</text>
+<text x="1084.5" y="521" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="middle">Feb 2026</text>
+<text x="1398.0" y="521" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" text-anchor="middle">Nov 2026</text>
+<text x="36" y="567" fill="#536A7F" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="400" text-anchor="start">SOURCE: GITHUB REST API / PUBLIC, ORIGINAL REPOSITORIES / NO SKILL SCORES</text>
 </svg>

@@ -1,21 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 720 256" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Conversational tools — Tools that talk.</title>
-  <desc id="desc">CONVERSATION / ACTION / DATA</desc>
-  <rect width="720" height="256" rx="8" fill="#151B17"/>
-  <path d="M32 65H688M32 211H688" stroke="#39443A"/>
-  <text x="32" y="41" fill="#CCB7FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">CONVERSATIONAL TOOLS</text>
-  <text x="688" y="42" text-anchor="end" fill="#6D7E6C" font-family="Arial, Helvetica, sans-serif" font-size="20">02</text>
-  <text x="32" y="132" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.2">Tools that talk.</text>
-  <text x="32" y="166" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="14">CONVERSATION / ACTION / DATA</text>
-  <text x="32" y="238" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6">BHARATH / SELECTED WORK</text>
-  <path d="M662 232H686M679 225L686 232L679 239" stroke="#CCB7FF" stroke-width="1.5"/>
-  
-  <rect x="476" y="88" width="58" height="45" rx="12" stroke="#6C5B83" stroke-width="2"/>
-  <path d="M488 103H521M488 112H511M488 121H516" stroke="#CCB7FF" stroke-width="2"/>
-  <path d="M534 110H562C574 110 574 170 586 170H607M574 137H607" stroke="#87759F" stroke-width="2"/>
-  <rect x="608" y="119" width="60" height="35" rx="8" fill="#CCB7FF"/>
-  <text x="638" y="141" fill="#241A36" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="middle">MCP</text>
-  <rect x="608" y="162" width="60" height="25" rx="7" stroke="#6C5B83"/>
-  <circle cx="622" cy="174" r="3" fill="#CCB7FF"/><path d="M632 174H654" stroke="#CCB7FF"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="300" viewBox="0 0 720 300" fill="none" role="img" aria-labelledby="title desc"><title id="title">Intent → action.</title><desc id="desc">Schematic animated artwork for Intent → action.. ASSISTANT / TOOLS / PERSISTENCE</desc>
+<style>
+.still{display:none}.flow{stroke-dasharray:3 19;animation:flow 12s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}.draw{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 8s ease-in-out infinite}.scan{animation:scan 5s ease-in-out infinite}.bar{transform-box:fill-box;transform-origin:bottom;animation:bars 6s ease-in-out infinite}.orbit{transform-origin:1080px 315px;animation:orbit 70s linear infinite}.inverse{animation-direction:reverse}
+@keyframes flow{to{stroke-dashoffset:-220}}@keyframes pulse{50%{opacity:.35}}@keyframes draw{0%,10%{stroke-dashoffset:900}55%,90%{stroke-dashoffset:0}100%{stroke-dashoffset:900}}@keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(80px)}}@keyframes bars{0%,100%{transform:scaleY(.5)}50%{transform:scaleY(1)}}@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:block}.flow,.pulse,.draw,.scan,.bar,.orbit{animation:none}.draw{stroke-dashoffset:0}}
+</style>
+<rect width="720" height="300" rx="10" fill="#080F1A"/>
+<path d="M28 60H692M28 257H692" stroke="#273C51"/>
+<circle class="pulse" cx="32" cy="32" r="3" fill="#BBA4FF"/>
+<text x="45" y="37" fill="#BBA4FF" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" letter-spacing="1.3" text-anchor="start">THE CONVERSATIONAL INTERFACE</text>
+<text x="690" y="38" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="0" text-anchor="end">02</text>
+<text x="28" y="129" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="600" letter-spacing="-1.1" text-anchor="start">Intent → action.</text>
+<text x="28" y="167" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0" text-anchor="start">ASSISTANT / TOOLS / PERSISTENCE</text>
+<text x="28" y="282" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="400" letter-spacing="1.3" text-anchor="start">BHARATH / SYSTEM 02</text>
+<text x="690" y="282" fill="#BBA4FF" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="600" letter-spacing="1" text-anchor="end">EXPLORE ↗</text>
+<rect x="479" y="99" width="50" height="78" rx="10" fill="#101C2B" stroke="#5A517B"/><path d="M490 119H518M490 132H511M490 145H518" stroke="#BBA4FF" stroke-width="2"/><path class="flow" d="M526 139H561C578 139 578 211 595 211H629" stroke="#BBA4FF" stroke-width="2"/><circle class="motion" r="4" fill="#E0CBFF"><animateMotion path="M526 139H561C578 139 578 211 595 211H629" dur="4s" repeatCount="indefinite"/></circle><rect x="593" y="99" width="85" height="55" rx="9" fill="#24253D" stroke="#BBA4FF"/><text x="635" y="132" fill="#BBA4FF" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="1" text-anchor="middle">MCP</text><ellipse cx="636" cy="195" rx="37" ry="10" stroke="#9F8FC3"/><path d="M599 195V225C599 238 673 238 673 225V195" stroke="#9F8FC3"/><path d="M599 211C599 224 673 224 673 211" stroke="#9F8FC3"/>
 </svg>

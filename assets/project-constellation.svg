@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="590" viewBox="0 0 1440 590" fill="none" role="img" aria-labelledby="title desc"><title id="title">Bharath&#x27;s AI project constellation</title><desc id="desc">A curated map of public projects: Data Agent for analytics, Expense MCP for connected tools, Educational RAG for retrieval, and forecasting and classification for machine learning. Animated paths are illustrative.</desc>
+<style>
+.still{display:none}.flow{stroke-dasharray:3 19;animation:flow 12s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}.draw{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 8s ease-in-out infinite}.scan{animation:scan 5s ease-in-out infinite}.bar{transform-box:fill-box;transform-origin:bottom;animation:bars 6s ease-in-out infinite}.orbit{transform-origin:1080px 315px;animation:orbit 70s linear infinite}.inverse{animation-direction:reverse}
+@keyframes flow{to{stroke-dashoffset:-220}}@keyframes pulse{50%{opacity:.35}}@keyframes draw{0%,10%{stroke-dashoffset:900}55%,90%{stroke-dashoffset:0}100%{stroke-dashoffset:900}}@keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(80px)}}@keyframes bars{0%,100%{transform:scaleY(.5)}50%{transform:scaleY(1)}}@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:block}.flow,.pulse,.draw,.scan,.bar,.orbit{animation:none}.draw{stroke-dashoffset:0}}
+</style>
+<rect width="1440" height="590" rx="14" fill="#080F1A"/>
+<text x="36" y="44" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" letter-spacing="1.7" text-anchor="start">THE PROJECT CONSTELLATION</text>
+<text x="1404" y="44" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" letter-spacing="1.3" text-anchor="end">FOUR DIRECTIONS / ONE BUILDER</text>
+<path d="M36 67H1404M36 541H1404" stroke="#273C51"/>
+<path d="M530 173C630 173 615 295 714 295" stroke="#273C51" stroke-width="4"/>
+<path class="flow" d="M530 173C630 173 615 295 714 295" stroke="#75EAF5" stroke-width="2"/>
+<circle class="motion" r="5" fill="#75EAF5"><animateMotion path="M530 173C630 173 615 295 714 295" dur="5s" repeatCount="indefinite"/></circle>
+<path d="M914 173C815 173 827 295 728 295" stroke="#273C51" stroke-width="4"/>
+<path class="flow" d="M914 173C815 173 827 295 728 295" stroke="#BBA4FF" stroke-width="2"/>
+<circle class="motion" r="5" fill="#BBA4FF"><animateMotion path="M914 173C815 173 827 295 728 295" dur="6s" repeatCount="indefinite"/></circle>
+<path d="M530 418C630 418 615 305 714 305" stroke="#273C51" stroke-width="4"/>
+<path class="flow" d="M530 418C630 418 615 305 714 305" stroke="#9FBFF7" stroke-width="2"/>
+<circle class="motion" r="5" fill="#9FBFF7"><animateMotion path="M530 418C630 418 615 305 714 305" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M914 418C815 418 827 305 728 305" stroke="#273C51" stroke-width="4"/>
+<path class="flow" d="M914 418C815 418 827 305 728 305" stroke="#F5C6A1" stroke-width="2"/>
+<circle class="motion" r="5" fill="#F5C6A1"><animateMotion path="M914 418C815 418 827 305 728 305" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="720" cy="300" r="84" stroke="#273C51" stroke-dasharray="0 0"/>
+<circle cx="720" cy="300" r="106" stroke="#273C51" stroke-dasharray="4 8"/>
+<circle cx="720" cy="300" r="133" stroke="#273C51" stroke-dasharray="4 8"/>
+<circle cx="720" cy="300" r="80" fill="#101C2B" stroke="#75EAF5"/>
+<text x="720" y="319" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-3" text-anchor="middle">B.</text>
+<text x="720" y="471" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" letter-spacing="1.1" text-anchor="middle">INTELLIGENCE → EXPERIENCE</text>
+<rect x="36" y="105" width="490" height="136" rx="10" fill="#101C2B" stroke="#273C51"/>
+<circle class="pulse" cx="58" cy="132" r="4" fill="#75EAF5"/>
+<text x="73" y="137" fill="#75EAF5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" letter-spacing="1" text-anchor="start">01 / ANALYTICS</text>
+<text x="58" y="180" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="600" letter-spacing="-0.7" text-anchor="start">Data Agent</text>
+<text x="58" y="213" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="0" text-anchor="start">Clean → compare → predict</text>
+<rect x="914" y="105" width="490" height="136" rx="10" fill="#101C2B" stroke="#273C51"/>
+<circle class="pulse" cx="936" cy="132" r="4" fill="#BBA4FF"/>
+<text x="951" y="137" fill="#BBA4FF" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" letter-spacing="1" text-anchor="start">02 / CONNECTED TOOLS</text>
+<text x="936" y="180" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="600" letter-spacing="-0.7" text-anchor="start">Expense MCP</text>
+<text x="936" y="213" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="0" text-anchor="start">Conversation → action</text>
+<rect x="36" y="350" width="490" height="136" rx="10" fill="#101C2B" stroke="#273C51"/>
+<circle class="pulse" cx="58" cy="377" r="4" fill="#9FBFF7"/>
+<text x="73" y="382" fill="#9FBFF7" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" letter-spacing="1" text-anchor="start">03 / KNOWLEDGE</text>
+<text x="58" y="425" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="600" letter-spacing="-0.7" text-anchor="start">Educational RAG</text>
+<text x="58" y="458" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="0" text-anchor="start">Documents → retrieved context</text>
+<rect x="914" y="350" width="490" height="136" rx="10" fill="#101C2B" stroke="#273C51"/>
+<circle class="pulse" cx="936" cy="377" r="4" fill="#F5C6A1"/>
+<text x="951" y="382" fill="#F5C6A1" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" letter-spacing="1" text-anchor="start">04 / PREDICTION</text>
+<text x="936" y="425" fill="#EDF3F7" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="600" letter-spacing="-0.7" text-anchor="start">The ML lab</text>
+<text x="936" y="458" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" letter-spacing="0" text-anchor="start">Forecasting / recommendation / vision</text>
+<text x="36" y="571" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" letter-spacing="1.1" text-anchor="start">A CURATED MAP OF MY WORK / FOLLOW THE PROJECT LINKS BELOW</text>
+<text x="1404" y="571" fill="#97ACC0" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" letter-spacing="1.1" text-anchor="end">SIGNAL IS VISUAL; THE PROJECTS ARE REAL.</text>
+</svg>
