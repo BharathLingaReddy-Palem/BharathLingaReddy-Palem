@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://bharath-linga-reddy-palem.pages.dev/"><strong>LIVE PORTFOLIO ↗</strong></a> &nbsp; / &nbsp;
   <a href="#the-brief"><strong>THE HUMAN</strong></a> &nbsp; / &nbsp;
   <a href="#project-constellation"><strong>THE CONSTELLATION</strong></a> &nbsp; / &nbsp;
   <a href="#selected-systems"><strong>THE BUILDS</strong></a> &nbsp; / &nbsp;
@@ -143,6 +144,8 @@ The artwork is schematic. The portfolio charts use real public repository metada
 <a href="https://www.linkedin.com/in/bharath-linga-reddy-palem-523a6b449/"><img src="./assets/connect-banner.svg" width="100%" alt="Let’s build something that matters. Connect with Bharath on LinkedIn." /></a>
 
 I’m open to AI/ML & Python internships and conversations about practical AI applications.
+
+**[Explore my live portfolio →](https://bharath-linga-reddy-palem.pages.dev/)** · [Start a conversation →](https://bharath-linga-reddy-palem.pages.dev/#contact)
 
 <p>
 <a href="https://www.linkedin.com/in/bharath-linga-reddy-palem-523a6b449/"><img src="./assets/linkedin.svg" alt="Connect on LinkedIn" height="42" /></a>
