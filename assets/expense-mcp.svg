@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 720 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Conversational tools — Tools that talk.</title>
+  <desc id="desc">CONVERSATION / ACTION / DATA</desc>
+  <rect width="720" height="256" rx="8" fill="#151B17"/>
+  <path d="M32 65H688M32 211H688" stroke="#39443A"/>
+  <text x="32" y="41" fill="#CCB7FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">CONVERSATIONAL TOOLS</text>
+  <text x="688" y="42" text-anchor="end" fill="#6D7E6C" font-family="Arial, Helvetica, sans-serif" font-size="20">02</text>
+  <text x="32" y="132" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.2">Tools that talk.</text>
+  <text x="32" y="166" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="14">CONVERSATION / ACTION / DATA</text>
+  <text x="32" y="238" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6">BHARATH / SELECTED WORK</text>
+  <path d="M662 232H686M679 225L686 232L679 239" stroke="#CCB7FF" stroke-width="1.5"/>
+  
+  <rect x="476" y="88" width="58" height="45" rx="12" stroke="#6C5B83" stroke-width="2"/>
+  <path d="M488 103H521M488 112H511M488 121H516" stroke="#CCB7FF" stroke-width="2"/>
+  <path d="M534 110H562C574 110 574 170 586 170H607M574 137H607" stroke="#87759F" stroke-width="2"/>
+  <rect x="608" y="119" width="60" height="35" rx="8" fill="#CCB7FF"/>
+  <text x="638" y="141" fill="#241A36" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="middle">MCP</text>
+  <rect x="608" y="162" width="60" height="25" rx="7" stroke="#6C5B83"/>
+  <circle cx="622" cy="174" r="3" fill="#CCB7FF"/><path d="M632 174H654" stroke="#CCB7FF"/>
+
+</svg>

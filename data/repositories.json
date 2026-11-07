@@ -1,0 +1,95 @@
+{
+  "updated_at": "2026-11-07",
+  "repositories": [
+    {
+      "name": "retail-demand-forecasting",
+      "language": "Python",
+      "created_at": "2025-05-03T15:06:12Z",
+      "pushed_at": "2025-05-04T04:17:23Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/retail-demand-forecasting",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "vehicle_rental-webapplication",
+      "language": "PHP",
+      "created_at": "2025-05-03T16:23:16Z",
+      "pushed_at": "2025-05-03T16:31:45Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/vehicle_rental-webapplication",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Bank-Project",
+      "language": "HTML",
+      "created_at": "2025-06-03T04:47:47Z",
+      "pushed_at": "2025-06-03T05:05:57Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/Bank-Project",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Music-recommendation-system",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-03-25T16:31:54Z",
+      "pushed_at": "2026-03-25T16:54:23Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/Music-recommendation-system",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Brain_Tumour_Prediction",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-03-26T17:27:34Z",
+      "pushed_at": "2026-11-01T10:10:40Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/Brain_Tumour_Prediction",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Cat_dog_classification",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-04-05T16:59:31Z",
+      "pushed_at": "2026-04-05T17:11:05Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/Cat_dog_classification",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "NutriScan",
+      "language": "TypeScript",
+      "created_at": "2026-04-10T09:33:45Z",
+      "pushed_at": "2026-04-10T09:36:37Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/NutriScan",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "expense_tracker",
+      "language": "Python",
+      "created_at": "2026-07-04T08:23:13Z",
+      "pushed_at": "2026-08-16T07:45:39Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/expense_tracker",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Multimodal-RAG-LoRA-Fine-Tuned-Educational-LLM",
+      "language": "Python",
+      "created_at": "2026-07-18T17:20:37Z",
+      "pushed_at": "2026-07-18T17:21:38Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/Multimodal-RAG-LoRA-Fine-Tuned-Educational-LLM",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "data-agent-generative-ai",
+      "language": "Python",
+      "created_at": "2026-10-18T13:39:31Z",
+      "pushed_at": "2026-10-18T13:40:34Z",
+      "html_url": "https://github.com/BharathLingaReddy-Palem/data-agent-generative-ai",
+      "fork": false,
+      "archived": false
+    }
+  ]
+}

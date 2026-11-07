@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 720 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Predictive analytics — A view of what’s next.</title>
+  <desc id="desc">HISTORICAL SALES / FUTURE DEMAND</desc>
+  <rect width="720" height="256" rx="8" fill="#151B17"/>
+  <path d="M32 65H688M32 211H688" stroke="#39443A"/>
+  <text x="32" y="41" fill="#F0BC8F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">PREDICTIVE ANALYTICS</text>
+  <text x="688" y="42" text-anchor="end" fill="#6D7E6C" font-family="Arial, Helvetica, sans-serif" font-size="20">04</text>
+  <text x="32" y="132" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.2">A view of what’s next.</text>
+  <text x="32" y="166" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="14">HISTORICAL SALES / FUTURE DEMAND</text>
+  <text x="32" y="238" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6">BHARATH / SELECTED WORK</text>
+  <path d="M662 232H686M679 225L686 232L679 239" stroke="#F0BC8F" stroke-width="1.5"/>
+  
+  <path d="M484 180H674M484 92V180" stroke="#5A483C"/>
+  <path d="M488 162L518 144L548 155L578 117L603 131" stroke="#F0BC8F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M603 131L636 110L670 94V126L636 139L603 131Z" fill="#F0BC8F" opacity=".16"/>
+  <path d="M603 131L636 125L670 110" stroke="#F0BC8F" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M603 89V188" stroke="#7D604A" stroke-dasharray="3 4"/>
+  <circle cx="603" cy="131" r="5" fill="#F0BC8F"/>
+
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 720 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Retrieval &amp; language — Answers with context.</title>
+  <desc id="desc">DOCUMENTS / RETRIEVAL / LLMS</desc>
+  <rect width="720" height="256" rx="8" fill="#151B17"/>
+  <path d="M32 65H688M32 211H688" stroke="#39443A"/>
+  <text x="32" y="41" fill="#9DD8F5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">RETRIEVAL &amp; LANGUAGE</text>
+  <text x="688" y="42" text-anchor="end" fill="#6D7E6C" font-family="Arial, Helvetica, sans-serif" font-size="20">03</text>
+  <text x="32" y="132" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.2">Answers with context.</text>
+  <text x="32" y="166" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="14">DOCUMENTS / RETRIEVAL / LLMS</text>
+  <text x="32" y="238" fill="#A3B19F" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6">BHARATH / SELECTED WORK</text>
+  <path d="M662 232H686M679 225L686 232L679 239" stroke="#9DD8F5" stroke-width="1.5"/>
+  
+  <rect x="482" y="87" width="61" height="76" rx="5" fill="#253740" stroke="#517684"/>
+  <rect x="492" y="97" width="61" height="76" rx="5" fill="#192B32" stroke="#628F9D"/>
+  <path d="M505 113H540M505 123H532M505 133H540M505 143H527" stroke="#9DD8F5" stroke-width="2"/>
+  <path d="M554 135H586" stroke="#9DD8F5" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="619" cy="135" r="33" stroke="#4D7380"/>
+  <circle cx="619" cy="135" r="22" stroke="#9DD8F5" stroke-width="2"/>
+  <path d="M643 159L664 180" stroke="#9DD8F5" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="619" cy="135" r="4" fill="#9DD8F5"/>
+
+</svg>

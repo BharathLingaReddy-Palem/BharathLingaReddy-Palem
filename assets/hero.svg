@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="550" viewBox="0 0 1440 550" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Bharath Linga Reddy Palem — AI systems. Product thinking.</title>
+  <desc id="desc">An editorial introduction in ink, ivory, and acid green, with a sculptural path connecting data, models, and useful applications.</desc>
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1440" y2="550" gradientUnits="userSpaceOnUse"><stop stop-color="#181C19"/><stop offset="1" stop-color="#0B100D"/></linearGradient>
+    <linearGradient id="signal" x1="1030" y1="125" x2="1304" y2="410" gradientUnits="userSpaceOnUse"><stop stop-color="#E3FFA8"/><stop offset=".5" stop-color="#A9CF69"/><stop offset="1" stop-color="#526F35"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#566149" opacity=".3"/></pattern>
+  </defs>
+  <style>.signal{stroke-dasharray:3 24;animation:flow 16s linear infinite}.live{animation:breathe 3s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-270}}@keyframes breathe{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.signal,.live{animation:none}}</style>
+  <rect width="1440" height="550" rx="20" fill="url(#ink)"/>
+  <rect x="968" y="82" width="414" height="376" fill="url(#dots)"/>
+  <path d="M56 96H1384" stroke="#394235"/>
+  <text x="56" y="61" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.1">BHARATH LINGA REDDY PALEM</text>
+  <circle cx="1150" cy="55" r="4" fill="#D9FF8A"/>
+  <text x="1166" y="60" fill="#C7CEC0" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.3">HYDERABAD / INDIA</text>
+  <text x="56" y="151" fill="#B9C4AD" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.2">THE BUILDER’S BRIEF / AI &amp; ML</text>
+  <text x="45" y="279" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="144" font-weight="800" letter-spacing="-8">BHARATH<tspan fill="#D9FF8A">.</tspan></text>
+  <text x="53" y="354" fill="#F2F0E7" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="600" letter-spacing="-2.3">AI systems. <tspan fill="#D9FF8A">Product thinking.</tspan></text>
+  <text x="56" y="408" fill="#ADB7A5" font-family="Arial, Helvetica, sans-serif" font-size="19">Python / Machine Learning / RAG / MCP</text>
+  <g stroke="url(#signal)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1046 175C1046 153 1064 135 1086 135H1258C1280 135 1298 153 1298 175V227C1298 249 1280 267 1258 267H1125C1103 267 1085 285 1085 307V360C1085 382 1103 400 1125 400H1301" stroke-width="38"/>
+    <path d="M1017 226H1169C1191 226 1209 244 1209 266V321C1209 343 1227 361 1249 361H1330" stroke-width="15" opacity=".32"/>
+  </g>
+  <path class="signal" d="M1046 175C1046 153 1064 135 1086 135H1258C1280 135 1298 153 1298 175V227C1298 249 1280 267 1258 267H1125C1103 267 1085 285 1085 307V360C1085 382 1103 400 1125 400H1301" stroke="#F5FFE3" stroke-width="2" opacity=".65"/>
+  <circle cx="1046" cy="175" r="8" fill="#172218" stroke="#E3FFA8" stroke-width="3"/>
+  <circle class="live" cx="1301" cy="400" r="8" fill="#D9FF8A"/>
+  <path d="M1000 430H1348" stroke="#394235"/>
+  <text x="1000" y="453" fill="#9FAC93" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.8">DATA</text>
+  <text x="1136" y="453" fill="#9FAC93" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.8">MODEL</text>
+  <text x="1278" y="453" fill="#D9FF8A" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.8">PRODUCT</text>
+  <path d="M56 482H1384" stroke="#394235"/>
+  <text x="56" y="518" fill="#C7CEC0" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.4">RAG &amp; LLMS</text>
+  <text x="230" y="518" fill="#68765D" font-family="Arial, Helvetica, sans-serif" font-size="13">/</text>
+  <text x="265" y="518" fill="#C7CEC0" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.4">AUTOML</text>
+  <text x="391" y="518" fill="#68765D" font-family="Arial, Helvetica, sans-serif" font-size="13">/</text>
+  <text x="426" y="518" fill="#C7CEC0" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.4">MCP TOOLS</text>
+  <text x="1384" y="518" text-anchor="end" fill="#D9FF8A" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.4">OPEN TO AI / ML &amp; PYTHON INTERNSHIPS</text>
+</svg>
