@@ -77,19 +77,7 @@ An AI/ML & Python developer in Hyderabad, studying **B.Tech AI & Data Science at
 
 ### From raw files to a working analytical workflow
 
-```mermaid
-flowchart LR
-    A[CSV / Excel] --> B[Profile and validate]
-    B --> C[Explore and clean]
-    C --> D[Train and compare]
-    C --> E[Evidence and interpretation]
-    D --> F[Predict]
-    E --> G[PDF / PowerPoint]
-    classDef input fill:#18241b,stroke:#abd96e,color:#eff5e8
-    classDef core fill:#1b2535,stroke:#9ebeea,color:#eff5ff
-    class A input
-    class B,C,D,E,F,G core
-```
+<a href="./assets/data-agent-architecture.svg"><img src="./assets/data-agent-architecture.svg" width="100%" alt="Data Agent architecture: files flow through profiling and cleaning into model comparison, prediction, interpretation, and reports." /></a>
 
 **Engineering choices:** versioned data cleaning, validation-based model selection, saved runs, and interfaces built around the workflow. The implementation computes statistics before requesting LLM interpretations.
 
@@ -100,15 +88,7 @@ flowchart LR
 <details>
 <summary><strong>02 / Open the Expense MCP architecture</strong> — a conversation becomes an application action</summary>
 
-```mermaid
-flowchart LR
-    A[AI assistant] --> B[FastMCP tools]
-    B --> C[Validate user and input]
-    C --> D[PostgreSQL]
-    C --> E[AI categorization]
-    D --> F[Budgets / summaries / exports]
-    E --> D
-```
+<a href="./assets/expense-mcp-architecture.svg"><img src="./assets/expense-mcp-architecture.svg" width="100%" alt="Expense MCP architecture: an assistant calls FastMCP tools, validates input, and connects to PostgreSQL and categorization." /></a>
 
 **Engineering choices:** persistent records, batch operations, recoverable expense deletion, CSV export, and a tool interface the assistant can call.
 
